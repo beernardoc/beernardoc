@@ -1,16 +1,42 @@
-### Hi there 👋
+# Welcome, I'm Bernardo! 👋 
 
-<!--
-**beernardoc/beernardoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a tech enthusiast with a technical background in Mechatronics from IFRN, Brazil, currently pursuing Software Engineering at the University of Aveiro. My IFRN technical education provided a solid foundation in programming, electronics, mechanics, and industrial robotics. At the University of Aveiro, I'm refining skills in Java, Spring Boot, Python, Django, Docker, Linux, and all things tech.
 
-Here are some ideas to get you started:
+## Contact
+<p align="left">
+  <a href="https://pt.linkedin.com/in/beernardopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://pt.linkedin.com/in/beernardopinto" height="30" width="40" /></a>
+  <a href="mailto:bernardopinto@ua.pt" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="bernardopinto@ua.pt" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<a href="https://github.com/beernardoc">
+  <!-- Gráfico de estatísticas gerais -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beernardoc&theme=tokyonight&show_icons=true" />
+
+  <!-- Gráfico de linguagens mais usadas -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beernardoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="beernardoc" />
+</a>
+
+## Core Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50"/>
+</p>
