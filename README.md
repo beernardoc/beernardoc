@@ -16,7 +16,7 @@ I'm a tech enthusiast with a technical background in Mechatronics from IFRN, Bra
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beernardoc&theme=tokyonight&show_icons=true" />
 
   <!-- Gráfico de linguagens mais usadas -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beernardoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="beernardoc" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beernardoc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="beernardoc" />
 </a>
 
 ## Core Tools
