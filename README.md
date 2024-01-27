@@ -1,15 +1,13 @@
 # Welcome, I'm Bernardo! 👋 
 
-## About Me
+## About me
 I'm a tech enthusiast with a technical background in Mechatronics from IFRN, Brazil, currently pursuing Software Engineering at the University of Aveiro. My IFRN technical education provided a solid foundation in programming, electronics, mechanics, and industrial robotics. At the University of Aveiro, I'm refining skills in Java, Spring Boot, Python, Django, Docker, Linux, and all things tech.
 
-## Contact
-<p align="left">
-  <a href="https://pt.linkedin.com/in/beernardopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://pt.linkedin.com/in/beernardopinto" height="30" width="40" /></a>
-  <a href="mailto:bernardopinto@ua.pt" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="bernardopinto@ua.pt" height="30" width="40" /></a>
-</p>
+## Reach out to me
+<div> <a href="https://www.linkedin.com/in/beernardopinto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:bernardopinto@ua.pt"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+</div>
 
-## GitHub Stats
+## GitHub stats
 
 <a href="https://github.com/beernardoc">
   <!-- Gráfico de estatísticas gerais -->
@@ -19,7 +17,7 @@ I'm a tech enthusiast with a technical background in Mechatronics from IFRN, Bra
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beernardoc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="beernardoc" />
 </a>
 
-## Core Tools
+## Core tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="50"/>
