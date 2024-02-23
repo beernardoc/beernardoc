@@ -1,7 +1,7 @@
 # Welcome, I'm Bernardo! 👋 
 
 ## About me
-I consider myself a technology enthusiast with a technical background in Mechatronics from IFRN, Brazil, currently in the third and final year of Software Engineering at the University of Aveiro. My technical education at IFRN provided me with a solid foundation in programming, electronics, mechanics, and industrial robotics. At the University of Aveiro, I am honing my skills in software development, especially with Java, Spring Boot, SQL, Docker, among others. Throughout my academic journey, I have become a full-stack developer, but I have a greater preference for backend development, and therefore, I am open to new opportunities in this area.
+Hello everyone! I'm Bernardo Pinto, originally from Recife, Brazil. In 2020, still in Brazil, I became a Mechatronics technician, and currently, I live in Aveiro, Portugal, where I'm completing the final year of Software Engineering. At the University of Aveiro, I'm refining my skills in software development, especially with Java, Spring Boot, SQL, Docker, among others. Throughout my academic journey, I've become a full-stack developer, but I have a stronger preference for backend development, so I'm open to new opportunities in this area. Additionally, I would say I have a certain curiosity for DevOps and Mobile development.
 
 ## Reach out to me
 <div> <a href="https://www.linkedin.com/in/beernardopinto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:bernardopinto@ua.pt"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> </div>
