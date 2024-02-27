@@ -1,4 +1,4 @@
-# Welcome, I'm Bernardo! 👋 
+# Welcome, I'm Bernardo 👋 
 
 ## About me
 Hello everyone, I'm Bernardo Pinto. In 2020, I became a Mechatronics technician, and currently, I live in Aveiro, Portugal, where I'm completing the final year of my Software Engineering degree. At the University of Aveiro, I'm refining my skills in software development, especially with Java, Spring Boot, SQL, Docker, among others. Throughout my academic journey, I've become a full-stack programmer, but I have a stronger preference for backend development, so I'm open to new opportunities in this area. Additionally, I have a certain curiosity about DevOps and Mobile development.
@@ -39,3 +39,4 @@ Hello everyone, I'm Bernardo Pinto. In 2020, I became a Mechatronics technician,
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="50"/>
 </p>
+
