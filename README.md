@@ -19,19 +19,21 @@ Hello everyone, I'm Bernardo Pinto. In 2020, I became a Mechatronics technician,
 
 ## Core tools
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="React" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50"/>
