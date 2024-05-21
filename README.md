@@ -23,7 +23,9 @@ Hello everyone, I'm Bernardo Pinto. In 2020, I became a Mechatronics technician,
 ## Core tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,kotlin,flutter,firebase,bootstrap,tailwind,maven,flask,mysql,redis,mongo,selenium,docker,postman,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,kotlin,flutter,firebase,bootstrap,tailwind,maven,flask,mysql,sqlite," />
+      <img src="https://skillicons.dev/icons?i=redis,mongo,selenium,docker,postman,rabbitmq,linux,github" />
+
   </a>
 </p>
 
